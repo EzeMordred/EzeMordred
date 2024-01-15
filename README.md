@@ -10,12 +10,34 @@
 📚 Ingeniero en Desarrollo de Software<br>
 📈 Experiencia en desarrollo de aplcaciones en .Net y desarrollo backend<br>
     
-📫 Envíame un mensaje a: <a href="mailto:ezequielsanlop@gmail.com">ezequielsanlop@gmail.com</a><br>
-😄 Encuéntrame en: <a href="https://www.linkedin.com/in/ezequiel-s%C3%A1nchez-637003276/">Linkedin</a><br><br><br>
+<h1 align="center">Contáctame 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/ezequiel-s%C3%A1nchez-637003276/" target="blank"><img align="center" src="https://img.shields.io/badge/Ezequiel Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ezequielsanlop@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ezequielsanlop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/EzeMordred" target="blank"><img align="center" src="https://img.shields.io/badge/EzeMordred-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<Br>
+<hr>
+<Br>
+<h1>Herramientas Usadas! 🛠️</h1>
+<Br>
+ 
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/CSharp-FF6F00?style=for-the-badge&logo=CSharp&logoColor=white)|![](https://img.shields.io/badge/java-F7931E?style=for-the-badge&logo=Java&logoColor=white)|![](https://img.shields.io/badge/PHP-D00000?style=for-the-badge&logo=PHP&logoColor=white)|![](https://img.shields.io/badge/Sql-F37626.svg?&style=for-the-badge&logo=sql&logoColor=white)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Angular-342B029.svg?&style=for-the-badge&logo=angulara&logoColor=white)|![](https://img.shields.io/badge/.Net_Framework-2C2D72?style=for-the-badge&logo=.Net_Framework&logoColor=white)|![](https://img.shields.io/badge/Unity-777BB4?style=for-the-badge&logo=unity&logoColor=white)|![](https://img.shields.io/badge/Kotlin-239120?style=for-the-badge&logo=kotlin&logoColor=white)|![](https://img.shields.io/badge/Y_MÁS!-yellow?style=for-the-badge)|
 
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-CSHARP-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-JAVA-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-KOTLIN-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-PYTHON-lightgrey?style=plastic"/><br>
+<Br>
+<hr>
+<Br>
+<h1>Un pequeño meme para acabar! 🤣</h1>
+<Br>
+  
+<img src="https://www.boredpanda.es/blog/wp-content/uploads/2022/03/03-6228a2ac81c49_hwurhp7crzf81-png__700-622b13a1722c6__700.jpg"/>
+  
+
+
+<Br>
+<hr>
+<Br>
+<h1>Muchas Gracias! 🤵 </h1>
+<Br>
 
